@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class array{
+class find_the_element_in_array{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
